@@ -1,0 +1,1 @@
+must install docker and install cassandra image
